@@ -1,4 +1,23 @@
-# Smd
-Aulas de PHP 
+## Aulas de PHP Senac 📕
 
-1 - Criando uma página com um modelo hibrido html/php com o uso de formulário para somar dois numeros
+Codigos de Exercícios e aprendizados da Faculdade de Análise e Desenvolvimento de Sistemas (4° semestre).
+
+## Conteúdo  📖 
+- [Capítulo 1]()
+
+
+
+
+## Tecnologias ⚙️
+- [PHP 1.31](https://www.php.net/docs.php)<br>
+- [Uwamp Server](https://www.wampserver.com/en/category/documentation-en/)
+
+## Package 📦 
+
+- [LiveServer](https://www.npmjs.com/package/live-server)
+
+
+## Ferramentas 🔧
+
+- [VSCode](https://code.visualstudio.com/docs)<br>
+- [Chrome](https://developer.chrome.com/docs/)
