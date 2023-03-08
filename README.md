@@ -1,4 +1,4 @@
-## Aulas de PHP Senac 📕
+## Aulas de PHP Senac (Linguagens de Servidor) 📕
 
 Codigos de Exercícios e Aprendizados da Faculdade de Análise e Desenvolvimento de Sistemas (4° semestre).
 
