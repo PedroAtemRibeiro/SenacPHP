@@ -4,7 +4,7 @@ Codigos de Exercícios e aprendizados da Faculdade de Análise e Desenvolvimento
 
 ## Conteúdo  📖 
 - [Capítulo 1](https://github.com/PedroAtemRibeiro/SenacPHP/tree/main/Capitulo1.md)
-
+- [Capítulo 2](https://github.com/PedroAtemRibeiro/SenacPHP/tree/main/Capitulo2.md)
 
 
 
